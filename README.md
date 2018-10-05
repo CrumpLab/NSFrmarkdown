@@ -1,13 +1,11 @@
 # NSFrmarkdown
 An R Markdown template for NSF proposals
 
-This template makes use of R Markdown website features to render all .Rmd files at once.
-
 ## Steps
 
-Edit the .Rmd files for each of the sections of the grant. If you knit the document, a .pdf will be compiled into the doc folder.
-
-You can compile all of the .Rmd files at once by using the build tab, and clicking build website.
+- Download the repository, and open the .rproj file.
+- Edit the .Rmd files for each of the sections of the grant. If you knit the document, a .pdf will be compiled into the doc folder.
+- You can compile all of the .Rmd files at once by using the build tab, and clicking build website.
 
 ## Tweaking the style
 
