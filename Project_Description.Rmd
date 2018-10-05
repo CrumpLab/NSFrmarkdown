@@ -1,0 +1,70 @@
+---
+title: "Project description"
+date: "\\vspace{-3em}"
+csl: apatest.csl
+output: 
+  pdf_document:
+   includes:
+    in_header: style/preamble.tex
+   template: null
+   keep_tex: no
+documentclass: style/nsf2
+bibliography: references.bib
+biblio-style: apalike
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Lorem ipsum dolor sit amet, arcu hendrerit pellentesque nulla sed eu auctor dolor. Ad aenean faucibus convallis ut, erat at sit vestibulum. Vehicula faucibus, tempus lobortis eleifend. Parturient nisl, cubilia vehicula eu etiam in nec hac sit [@smallone]. Diam eros phasellus lorem nisl in sollicitudin. Egestas per, facilisis, quis ullamcorper quis, nec eros sit. Pellentesque, lacinia eleifend magna libero mauris nec! Dui bibendum ligula et, tellus metus eu hac dolor sapien auctor tortor [@bigone]. Magna nec, ridiculus, tempus a malesuada, vitae, dictum est odio, eget sem et mus.  
+
+Velit, habitant ultrices hac nulla non. Adipiscing, ut aptent dictum commodo. Ac condimentum porttitor nunc a dapibus tempus ac in diam nulla ut. Habitasse ornare nisi sagittis eu dictum non eget arcu morbi sed, eget. Lorem ligula pulvinar nulla egestas in ac. Felis magna interdum vel, facilisi tortor. Ultrices dictumst ornare sociosqu. Sagittis tempor, in pulvinar aliquet aenean faucibus congue maximus elementum nostra maximus. Dis dolor natoque vitae urna, in, nascetur, elementum mauris interdum. Aliquam ligula nec tellus vivamus leo libero arcu semper. A sed sed tortor, enim, arcu ipsum. Amet, ex. Nisl posuere ligula, ut diam id tincidunt natoque facilisis, nascetur montes suscipit varius. Nullam massa lacinia. Varius mauris sit efficitur dui nec.
+
+# A section header
+
+At sit non cum condimentum, potenti, maximus efficitur, diam. Eros sodales, nisi dis sit varius molestie. Phasellus id scelerisque rhoncus sit quisque ligula viverra sit, malesuada? Sem quis rutrum in potenti ex mi. Lacinia blandit augue nibh eu leo nullam cubilia morbi venenatis ac. Feugiat sociis nunc nibh sem quis. Aenean fames turpis. Praesent mauris venenatis himenaeos taciti placerat magna justo pulvinar non nam litora ipsum. Ante sed gravida odio sit montes nunc et nec. Iaculis, condimentum, aliquam quam eu pretium. Ultrices consequat, magnis ornare vitae ullamcorper, ac fermentum elit ac? Id aptent amet ullamcorper at netus. Sagittis leo ut, nunc curae neque. Ac enim et pellentesque.     
+
+
+\begin{wrapfigure}{R}{.25\textwidth}  
+```{r new, echo=F, fig.width=2, fig.height=1.5,warning=F,message=F,out.width=".25\\textwidth"}
+nums<-rnorm(100,0,1)
+df<-data.frame(s=1:100,nums)
+library(ggplot2)
+ggplot(df, aes(x=nums))+
+  geom_histogram()+
+  theme_classic(base_size=9)
+```
+
+\end{wrapfigure}
+
+
+Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.    
+
+## Subsection header
+
+Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.     
+
+### Subsubsection header
+
+Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.       
+
+Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.      
+
+
+\newpage
+
+## References
+
+\indent
+\setlength{\parindent}{-.5in}
+\setlength{\leftskip}{0.5in}
+
+
+
+
+
+
+
+

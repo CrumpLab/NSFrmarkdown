@@ -1,0 +1,12 @@
+---
+title: "Index"
+author: "Matthew Crump"
+date: "10/5/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Use the build tab to build website. All .rmds will be knitted into .pdfs and put into the doc folder

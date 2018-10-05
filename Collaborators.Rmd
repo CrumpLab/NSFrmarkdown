@@ -1,0 +1,28 @@
+---
+title: "Collaborators and other affiliations"
+date: "\\vspace{-3em}"
+output: 
+  pdf_document:
+   includes:
+    in_header: style/preamble.tex
+   template: null
+   keep_tex: no
+documentclass: style/nsf2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Collaborators and co-editors
+
+List of...
+
+## Graduate and Postdoctoral Advisors
+
+List of...
+
+## Thesis Advisor and Postgraduate Advisor
+
+List of...

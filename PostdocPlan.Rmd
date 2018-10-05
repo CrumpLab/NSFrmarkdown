@@ -1,0 +1,21 @@
+---
+title: "Postdoctoral Mentoring Plan"
+date: "\\vspace{-3em}"
+output: 
+  pdf_document:
+   includes:
+    in_header: style/preamble.tex
+   template: null
+   keep_tex: no
+documentclass: style/nsf2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.
+
+Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.
+
+Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.

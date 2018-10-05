@@ -1,0 +1,73 @@
+---
+title: "Matthew J. C. Crump"
+date: "\\vspace{-3em}"
+output: 
+  pdf_document:
+   includes:
+    in_header: style/preamble.tex
+   template: null
+   keep_tex: no
+documentclass: style/nsf2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## a. Professional Preparation
+
+\noindent
+University of Lethbridge, Lethbridge, AB, Canada;
+        Psychology;
+        B.Sc., 2002
+        
+\noindent        
+McMaster University, Hamilton, ON, Canada;
+        Psychology;
+        Ph.D., 2007
+        
+\noindent
+Vanderbilt University, Nashville, TN, USA;
+                Psychology;
+                Postdoctoral, 2011
+
+
+## b. Appointments
+
+Associate Professor;
+        Department of Psychology, Brooklyn College of CUNY;
+        08/16-Current
+
+\noindent
+Assistant Professor;
+         Department of Psychology, Brooklyn College of CUNY;
+         02/11-08/16
+
+## c. Publications
+
+### Most-closely related publications
+
+1. Behmer, L., & Crump, M. J. C. (2017). The dynamic range of response set activation during action sequencing. \emph{Journal of Experimental Psychology: Human Perception and Performance, 43}, 537-554.
+2. Crump, M. J.C. & Logan, G.D. (2010). Hierarchical control and skilled typing: Evidence for word level control over the execution of individual keystrokes. \emph{Journal of Experimental Psychology: Learning, Memory, \& Cognition, 36}, 1369-1380.
+3. Crump, M. J. C., & Logan, G. D. (2010). Episodic contributions to sequential control: Learning from a typists touch. \emph{Journal of Experimental Psychology: Human Perception \& Performance, 36}, 662-672.
+4. Logan, G. D., & Crump, M. J. C. (2009). The left hand doesn’t know what the right hand Is doing: The disruptive effects of attention to the hands in skilled typewriting. \emph{Psychological Science}, 20, 1296-1300.
+5. Logan, G. D., & Crump, M. J. C. (2011). Hierarchical control of cognitive processes: The case for skilled typewriting. In B. H. Ross (Ed.), \emph{Psychology of Learning and Motivation} (Vol. 54, pp. 1-27). Elsevier. 
+
+### Significant Publications
+
+1. Logan, G. D., & Crump, M. J. C. (2010). Cognitive illusions of authorship reveal hierarchical error detection in skilled typists. \emph{Science, 330}, 683-686. 
+2. Crump, M. J. C., McDonnell, J. V., & Gureckis, T. M. (2013). Evaluating Amazon’s Mechanical Turk as a tool for experimental behavioral research. \emph{PLoS ONE, 8}, e57410. 
+3. Crump, M. J. C., & Logan, G. D. (2013). Prevention and correction in post-error performance: An ounce of prevention, a pound of cure. \emph{Journal of Experimental Psychology: General}, 142, 692-709. 
+4. Zumsteg, J., Crump, M. J. C., Logan, G. D., Weikert, D. R., & Lee, D. H. (2017). The effect of carpal tunnel release on typing performance. \emph{The Journal of Hand Surgery, 42}, 16-23.
+5. Behmer, L., & Crump, M. J. C. (2017). Crunching big data with finger tips: How typists tune their performance towards the statistics of natural language. In M. N. Jones (Ed.), \emph{Big Data in Cognitive Science}. Taylor & Francis. New York, NY.
+ 
+
+## d. Synergistic activities
+
+1. Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.
+2. Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.
+3. Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.
+4. Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing. 
+5. Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, nulla finibus pharetra, interdum sodales. Nulla nisi nam et fames volutpat sem leo varius urna. Purus inceptos ridiculus maecenas porttitor. Sed eu faucibus eget ut, sed cum, efficitur quisque, et sociosqu finibus. Sit accumsan cursus varius. Cubilia, lorem ac nulla porta aliquam sed pharetra quam aptent gravida. Ut, mauris mi hendrerit quis interdum bibendum cum dapibus. Ante eros mollis tincidunt ante et ut fermentum habitant, nec fusce sociosqu eu ut integer adipiscing.
+
