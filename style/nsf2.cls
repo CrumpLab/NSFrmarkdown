@@ -17,9 +17,9 @@
 
 \RequirePackage{titlecaps}
 \RequirePackage[explicit]{titlesec}
-\titleformat{\section}{\Large\bfseries\filcenter}{}{0pt}{\titlecap{#1}\\\rule{\textwidth}{0.4pt}}
-\titleformat{\subsection}{\large\bfseries}{}{0pt}{\titlecap{#1}}
-\titleformat{\subsubsection}{\bfseries}{}{0pt}{\titlecap{#1}}
+\titleformat{\section}{\Large\bfseries\filcenter}{\thesection}{10pt}{\titlecap{#1}\\\rule{\textwidth}{0.4pt}}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{10pt}{\titlecap{#1}}
+\titleformat{\subsubsection}{\bfseries}{\thesubsubsection}{10pt}{\titlecap{#1}}
 %\titlespacing*{\title}{0pt}{0em}{-60pt}
 \titlespacing*{\section}{0pt}{0.5em}{0.3 pt}
 \titlespacing*{\subsection}{0pt}{0.35em}{0pt}
@@ -34,6 +34,9 @@
 
 \RequirePackage{titling}
 \setlength{\droptitle}{-60pt}
+
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{5}
 
 %\usepackage[american]{babel}
 %\usepackage{csquotes}

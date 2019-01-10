@@ -11,6 +11,10 @@ An R Markdown template for NSF proposals
 
 The style folder contains `nsf2.cls` and  `preamble.tex`. Both of which can be edited to change aspects of the style.
 
+### section numbering
+
+Turn section numbering within a document on or off by setting `number_sections: true` or `number_sections: false` in the YAML. The style of section-numbering is controlled using the titlesec latex package in `nsf2.cls` (style folder)
+
 ## Embedding R graphs
 
 The `Project_Descrtion.Rmd` contains one example of embedding an R figure, and wrapping text around the figure.
