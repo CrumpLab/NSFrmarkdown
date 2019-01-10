@@ -26,6 +26,8 @@
 \titlespacing*{\subsubsection}{0pt}{0.25em}{0pt}
 \titlespacing*{\paragraph}{0pt}{0em}{0pt}
 
+\newcommand{\newsection}[1]{\pagenumbering{arabic}\renewcommand{\thepage}{#1--\arabic{page}}}
+
 \usepackage{parskip}
 \setlength{\parindent}{.5cm}
 \setlength{\parskip}{0cm plus0mm minus0mm}

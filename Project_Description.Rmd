@@ -17,6 +17,7 @@ biblio-style: apalike
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+\newsection{D}
 
 Lorem ipsum dolor sit amet, arcu hendrerit pellentesque nulla sed eu auctor dolor. Ad aenean faucibus convallis ut, erat at sit vestibulum. Vehicula faucibus, tempus lobortis eleifend. Parturient nisl, cubilia vehicula eu etiam in nec hac sit [@smallone]. Diam eros phasellus lorem nisl in sollicitudin. Egestas per, facilisis, quis ullamcorper quis, nec eros sit. Pellentesque, lacinia eleifend magna libero mauris nec! Dui bibendum ligula et, tellus metus eu hac dolor sapien auctor tortor [@bigone]. Magna nec, ridiculus, tempus a malesuada, vitae, dictum est odio, eget sem et mus.  
 
@@ -57,6 +58,7 @@ Eu nunc risus massa in mauris facilisi nibh pulvinar sapien. Dis viverra ipsum, 
 
 ## References
 
+\newsection{E}
 \indent
 \setlength{\parindent}{-.5in}
 \setlength{\leftskip}{0.5in}
