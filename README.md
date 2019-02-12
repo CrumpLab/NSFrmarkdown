@@ -17,4 +17,4 @@ Turn section numbering within a document on or off by setting `number_sections: 
 
 ## Embedding R graphs
 
-The `Project_Descrtion.Rmd` contains one example of embedding an R figure, and wrapping text around the figure.
+The `Project_Description.Rmd` contains one example of embedding an R figure, and wrapping text around the figure.
