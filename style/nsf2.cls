@@ -14,7 +14,7 @@
 \pagestyle{fancyplain}
 \renewcommand{\headrulewidth}{0pt}
 \fancyhf{}
-\fancyfoot[R]{\thepage} 
+%\fancyfoot[R]{\thepage} 
 
 \RequirePackage{titlecaps}
 \RequirePackage[explicit]{titlesec}
@@ -38,6 +38,7 @@
 
 \setcounter{tocdepth}{5}
 \setcounter{secnumdepth}{5}
+\pagenumbering{gobble}
 
 %\usepackage[american]{babel}
 %\usepackage{csquotes}
