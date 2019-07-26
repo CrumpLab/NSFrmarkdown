@@ -1,6 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{nsf2}
 \LoadClass[11pt, letterpaper, onecolumn]{article}
+\usepackage[factor=0]{microtype}
 
 \RequirePackage[margin=1in]{geometry}
 

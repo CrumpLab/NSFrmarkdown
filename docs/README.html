@@ -69,9 +69,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -102,8 +100,6 @@ summary {
 </style>
 
 
-
-<div class="container-fluid main-container">
 
 <!-- tabsets -->
 
@@ -178,6 +174,15 @@ $(document).ready(function () {
 
 
 
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
 
 <div class="fluid-row" id="header">
 
@@ -201,6 +206,10 @@ $(document).ready(function () {
 <div id="tweaking-the-style" class="section level2">
 <h2>Tweaking the style</h2>
 <p>The style folder contains <code>nsf2.cls</code> and <code>preamble.tex</code>. Both of which can be edited to change aspects of the style.</p>
+<div id="section-numbering" class="section level3">
+<h3>section numbering</h3>
+<p>Turn section numbering within a document on or off by setting <code>number_sections: true</code> or <code>number_sections: false</code> in the YAML. The style of section-numbering is controlled using the titlesec latex package in <code>nsf2.cls</code> (style folder)</p>
+</div>
 </div>
 <div id="embedding-r-graphs" class="section level2">
 <h2>Embedding R graphs</h2>
